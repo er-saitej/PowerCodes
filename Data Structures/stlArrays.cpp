@@ -1,6 +1,6 @@
 /*
     author: Sai Tej Sunkara
-    topic: C++ Data Structures
+    topic: STL Arrays
     complexity: O(1)
     analysis: O(n!) > O(2^n) > O(n^2) > O(n*log.n) > O(n) > O(log.n) > O(1)
 */
