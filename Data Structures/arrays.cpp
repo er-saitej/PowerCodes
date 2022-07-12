@@ -23,7 +23,7 @@ void updateArray(int arr[], int i, int n) {
 }
 
 void arraySizeInFunction(int arr[]) {
-    cout<<"Size of array inside a function (same as size of pointer object) "<<sizeof(arr)/sizeof(int)<<endl;
+    cout<<"Size of array inside a function (same as size of pointer object) "<<sizeof(arr)/sizeof(int)<<endl; // Because here arr is passed by reference and it only knows base address and doesn't know the actual size.
 }
 
 int solve() {

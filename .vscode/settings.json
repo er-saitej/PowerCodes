@@ -2,5 +2,10 @@
     "cSpell.words": [
         "Sunkara"
     ],
-    "C_Cpp.errorSquiggles": "Disabled"
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ios": "cpp",
+        "tuple": "cpp"
+    }
 }
