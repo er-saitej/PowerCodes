@@ -1,0 +1,8 @@
+
+Size of an array is 5
+Displaying Array
+1 2 3 5 4 
+Displaying Array
+1 2 3 19 4 
+Size of array inside a function (same as size of pointer object) 1
+0
