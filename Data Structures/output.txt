@@ -1,18 +1,4 @@
 
-Displaying Deque
-100 100 100 100 
-Displaying Deque
-1 2 4 3 6 5 
-Displaying Deque
-1 2 4 3 6 5 
-
-Size of Deque 1 is 5
-Displaying Deque
-30 20 10 40 60 
-Element at back 60
-Element at front 30
-Displaying Deque
-30 20 10 40 
-Displaying Deque
-20 10 40 
+Displaying Queue
+10 20 30 40 50 
 0
