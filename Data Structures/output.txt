@@ -1,4 +1,8 @@
 
-Displaying Queue
-10 20 30 40 50 
+Displaying max-heap
+6 5 4 3 2 1 
+Displaying min-heap
+1 2 3 4 5 6 
+Displaying custom-heap
+3 4 5 6 2 1 
 0
